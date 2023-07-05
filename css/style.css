@@ -1,0 +1,21 @@
+h1{
+    color:salmon;
+    font-size:50px;
+}
+nav{
+    background-color:aquamarine;
+    text-align: center;
+    font-size: 0;
+}
+nav a{
+    text-decoration:none;
+    display:inline-block;
+    padding: 50px 30px;
+    font-size: 60px;
+    background-color: black;
+    transition: 1s;
+}
+nav a:hover{
+    color: blue;
+    background-color: blueviolet;
+}
